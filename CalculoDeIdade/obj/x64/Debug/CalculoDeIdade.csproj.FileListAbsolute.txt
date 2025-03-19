@@ -1,0 +1,10 @@
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\bin\x64\Debug\CalculoDeIdade.exe.config
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\bin\x64\Debug\CalculoDeIdade.exe
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\bin\x64\Debug\CalculoDeIdade.pdb
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\obj\x64\Debug\CalculoDeIdade.csproj.AssemblyReference.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\obj\x64\Debug\CalculoDeIdade.frmCalculoIdade.resources
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\obj\x64\Debug\CalculoDeIdade.Properties.Resources.resources
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\obj\x64\Debug\CalculoDeIdade.csproj.GenerateResource.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\obj\x64\Debug\CalculoDeIdade.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\obj\x64\Debug\CalculoDeIdade.exe
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\CalculoDeIdade\obj\x64\Debug\CalculoDeIdade.pdb

@@ -1,0 +1,10 @@
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\bin\x64\Debug\JogoDeNumeros.exe.config
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\bin\x64\Debug\JogoDeNumeros.exe
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\bin\x64\Debug\JogoDeNumeros.pdb
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\obj\x64\Debug\JogoDeNumeros.frmJogoDeNumeros.resources
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\obj\x64\Debug\JogoDeNumeros.Properties.Resources.resources
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\obj\x64\Debug\JogoDeNumeros.csproj.GenerateResource.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\obj\x64\Debug\JogoDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\obj\x64\Debug\JogoDeNumeros.exe
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\obj\x64\Debug\JogoDeNumeros.pdb
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\JogoDeNumeros\obj\x64\Debug\JogoDeNumeros.csproj.AssemblyReference.cache

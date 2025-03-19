@@ -1,0 +1,10 @@
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\bin\x64\Debug\ExibirNome.exe.config
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\bin\x64\Debug\ExibirNome.exe
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\bin\x64\Debug\ExibirNome.pdb
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.csproj.AssemblyReference.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.frmExibirNome.resources
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.Properties.Resources.resources
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.csproj.GenerateResource.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.exe
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ExibirNome\obj\x64\Debug\ExibirNome.pdb
