@@ -1,0 +1,10 @@
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\bin\x64\Debug\TaboadacomLoop.exe.config
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\bin\x64\Debug\TaboadacomLoop.exe
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\bin\x64\Debug\TaboadacomLoop.pdb
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\obj\x64\Debug\TaboadacomLoop.csproj.AssemblyReference.cache
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\obj\x64\Debug\TaboadacomLoop.Properties.Resources.resources
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\obj\x64\Debug\TaboadacomLoop.csproj.GenerateResource.cache
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\obj\x64\Debug\TaboadacomLoop.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\obj\x64\Debug\TaboadacomLoop.exe
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\obj\x64\Debug\TaboadacomLoop.pdb
+C:\Users\luiz.esferreira6\source\repos\TaboadacomLoop\obj\x64\Debug\TaboadacomLoop.frmTabuadaLoop.resources
