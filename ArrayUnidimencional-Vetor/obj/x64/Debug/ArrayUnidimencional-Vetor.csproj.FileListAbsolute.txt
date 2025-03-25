@@ -1,0 +1,9 @@
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ArrayUnidimencional-Vetor\bin\x64\Debug\ArrayUnidimencional-Vetor.exe.config
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ArrayUnidimencional-Vetor\bin\x64\Debug\ArrayUnidimencional-Vetor.exe
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ArrayUnidimencional-Vetor\bin\x64\Debug\ArrayUnidimencional-Vetor.pdb
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ArrayUnidimencional-Vetor\obj\x64\Debug\ArrayUnidimencional_Vetor.frmVetor.resources
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ArrayUnidimencional-Vetor\obj\x64\Debug\ArrayUnidimencional_Vetor.Properties.Resources.resources
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ArrayUnidimencional-Vetor\obj\x64\Debug\ArrayUnidimencional-Vetor.csproj.GenerateResource.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ArrayUnidimencional-Vetor\obj\x64\Debug\ArrayUnidimencional-Vetor.csproj.CoreCompileInputs.cache
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ArrayUnidimencional-Vetor\obj\x64\Debug\ArrayUnidimencional-Vetor.exe
+C:\Users\luiz.esferreira6\source\ProgramadorDeSistemas\ArrayUnidimencional-Vetor\obj\x64\Debug\ArrayUnidimencional-Vetor.pdb
